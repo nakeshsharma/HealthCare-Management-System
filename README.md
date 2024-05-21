@@ -46,4 +46,7 @@ Follow these instructions to get the project up and running on your local machin
 - **View Doctors:** Display a list of all available doctors with their specializations.
 - **Book Appointment:** Schedule an appointment by entering the patient ID, doctor ID, and appointment date. The system checks for doctor availability before booking.
 
+## Team Contributor
+**Harshita Dutta -** https://github.com/harshita-d12
+
 
