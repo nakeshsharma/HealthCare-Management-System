@@ -1,6 +1,6 @@
 # HealthCare Management System
 
-A comprehensive Hospital Management System built with Java and MySQL to manage patients, doctors, and appointments efficiently. This console-based application allows for seamless management of hospital operations, ensuring smooth and organized patient care.
+A comprehensive HealthCare Management System built with Java and MySQL to manage patients, doctors, and appointments efficiently. This console-based application allows for seamless management of hospital operations, ensuring smooth and organized patient care.
 
 ## Features
 
